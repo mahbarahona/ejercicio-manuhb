@@ -1,0 +1,16 @@
+@import "../../../styles/variables";
+
+.quote {
+  padding: 1rem;
+  background-color: $color-gray;
+  text-decoration: wavy;
+}
+.warning {
+  border: 2px solid;
+  border-radius: $border-radius;
+  padding: 1rem;
+  background-color: $color-warn;
+  .warning-text {
+    font-weight: bold;
+  }
+}

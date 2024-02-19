@@ -1,0 +1,356 @@
+{
+  "total": 39,
+  "result": [
+    {
+      "categories": ["career"],
+      "created_at": "2020-01-05 13:42:18.823766",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "cwguxfhptcuagndjdt1hya",
+      "updated_at": "2020-01-05 13:42:18.823766",
+      "url": "https://api.chucknorris.io/jokes/cwguxfhptcuagndjdt1hya",
+      "value": "In the beginning there was nothing...then Chuck Norris Roundhouse kicked that nothing in the face and said \"Get a job\". That is the story of the universe."
+    },
+    {
+      "categories": ["career"],
+      "created_at": "2020-01-05 13:42:19.104863",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "3y7vnqsvtvuvvmhtuqjuma",
+      "updated_at": "2020-01-05 13:42:19.104863",
+      "url": "https://api.chucknorris.io/jokes/3y7vnqsvtvuvvmhtuqjuma",
+      "value": "Chuck Norris' first job was as a paperboy. There were no survivors."
+    },
+    {
+      "categories": ["career"],
+      "created_at": "2020-01-05 13:42:19.576875",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "zk14uc6xr82d7ig9qhaymg",
+      "updated_at": "2020-01-05 13:42:19.576875",
+      "url": "https://api.chucknorris.io/jokes/zk14uc6xr82d7ig9qhaymg",
+      "value": "Chuck Norris is actually the front man for Apple. He let's Steve Jobs run the show when he's on a mission. Chuck Norris is always on a mission."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:19.576875",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "hQpVFAw6SZu57v04Xr41ag",
+      "updated_at": "2020-01-05 13:42:19.576875",
+      "url": "https://api.chucknorris.io/jokes/hQpVFAw6SZu57v04Xr41ag",
+      "value": "Chuck Norris invented the \"Shake Weight\" so that one day a woman might have the strength to give him a hand job."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:19.897976",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "ulsiraupTqykbsK70ifGxw",
+      "updated_at": "2020-01-05 13:42:19.897976",
+      "url": "https://api.chucknorris.io/jokes/ulsiraupTqykbsK70ifGxw",
+      "value": "Steve Jobs died because Chuck Norris was pissed that the iPhone 4S wasn't the iPhone 5"
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:19.897976",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "AfW7brdETu6vQV75_ApiFA",
+      "updated_at": "2020-01-05 13:42:19.897976",
+      "url": "https://api.chucknorris.io/jokes/AfW7brdETu6vQV75_ApiFA",
+      "value": "\"If it bleed... we can kill it\" Chuck Norris on the set of Predator trying to steal Arny's job."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:21.795084",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "GMupjWhgSCWlGxhJmNHBww",
+      "updated_at": "2020-01-05 13:42:21.795084",
+      "url": "https://api.chucknorris.io/jokes/GMupjWhgSCWlGxhJmNHBww",
+      "value": "When Steve Jobs booted up his first computer, his background was a picture of Chuck Norris taking a bite out of an apple."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:22.089095",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "rMbAoHNvRXqkGDGHsPFGAg",
+      "updated_at": "2020-01-05 13:42:22.089095",
+      "url": "https://api.chucknorris.io/jokes/rMbAoHNvRXqkGDGHsPFGAg",
+      "value": "Chuck Norris once watched a girl give him a blow job. she died the next second..."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:22.701402",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "rVoFTuvEQ2uOEl8V2bc7TA",
+      "updated_at": "2020-01-05 13:42:22.701402",
+      "url": "https://api.chucknorris.io/jokes/rVoFTuvEQ2uOEl8V2bc7TA",
+      "value": "Chuck Norris' one & only time of weakness occurred when he recieved a Sarah Palin rim job."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:24.142371",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "c9Je5kHyQpWJSDF01Ss2DQ",
+      "updated_at": "2020-01-05 13:42:24.142371",
+      "url": "https://api.chucknorris.io/jokes/c9Je5kHyQpWJSDF01Ss2DQ",
+      "value": "Chuck Norris once had an interim job at Denny's. Not because he couldn't get a better job, because of his ability to unscramble an egg."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:24.40636",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "fqdYQm-ySaCoWUXrzfVBzQ",
+      "updated_at": "2020-01-05 13:42:24.40636",
+      "url": "https://api.chucknorris.io/jokes/fqdYQm-ySaCoWUXrzfVBzQ",
+      "value": "Chuck Norris has a job. His job is to roundhouse kick people. He gets a million dollars if he does. then hes done."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:24.40636",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "09g7SRg8RxiebPRJT8IpVg",
+      "updated_at": "2020-01-05 13:42:24.40636",
+      "url": "https://api.chucknorris.io/jokes/09g7SRg8RxiebPRJT8IpVg",
+      "value": "As a teenager, Chuck Norris' first part-time job was flipping hamburgers at a local drive-in theater concession stand. His first three burgers landed yesterday. The drive-in closed 30 years ago."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:25.099703",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "vSTlm5PCSJCA3BYMSADlFQ",
+      "updated_at": "2020-01-05 13:42:25.099703",
+      "url": "https://api.chucknorris.io/jokes/vSTlm5PCSJCA3BYMSADlFQ",
+      "value": "Steve Jobs gave a free iPad to Chuck Norris as a token of goodwill. Chuck Norris instantly rammed the device up Jobs' anus for insulting his unquestionable masculinity."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:25.628594",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "asYOIsAaRQewv9XTM5GLVA",
+      "updated_at": "2020-01-05 13:42:25.628594",
+      "url": "https://api.chucknorris.io/jokes/asYOIsAaRQewv9XTM5GLVA",
+      "value": "In the beginning there was nothing, then Chuck Norris kicked that nothing in the face and said \"Get a job!!\"... And that's the story of the universe."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:25.905626",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "NqbJiZcYTGmbwdcWBkYOsw",
+      "updated_at": "2020-01-05 13:42:25.905626",
+      "url": "https://api.chucknorris.io/jokes/NqbJiZcYTGmbwdcWBkYOsw",
+      "value": "Prostitution began when Chuck Norris went back in time and offered a Cro-Magnon woman a freshly slaughtered Woolly Mammoth as payment for a blow-job."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:25.905626",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "gFgcEnubTeO2muXDROgA0w",
+      "updated_at": "2020-01-05 13:42:25.905626",
+      "url": "https://api.chucknorris.io/jokes/gFgcEnubTeO2muXDROgA0w",
+      "value": "Apple Computer was formed in 1976 by Steve Jobs, Steve Wozniak and Chuck Norris. When Steve Jobs suggested they use an apple as their logo, Chuck Norris bit off a chunk of the apple Jobs was holding, including his index and middle fingers. Jobs has prosthetic fingers on his right hand."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:26.194739",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "ApUF2k0jRCORmeJ6eDFnEw",
+      "updated_at": "2020-01-05 13:42:26.194739",
+      "url": "https://api.chucknorris.io/jokes/ApUF2k0jRCORmeJ6eDFnEw",
+      "value": "The job of the superhero is to save the day. The job of Chuck Norris is to save the superhero."
+    },
+    {
+      "categories": ["explicit"],
+      "created_at": "2020-01-05 13:42:26.447675",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "RHmdtVSHQsuosAt4dlrhvQ",
+      "updated_at": "2020-01-05 13:42:26.447675",
+      "url": "https://api.chucknorris.io/jokes/RHmdtVSHQsuosAt4dlrhvQ",
+      "value": "Chuck Norris' penis is the size of a fire extinguisher. And can pretty much do the same job."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:26.991637",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "aVLhvWfbStuxhYslhEd7kw",
+      "updated_at": "2020-01-05 13:42:26.991637",
+      "url": "https://api.chucknorris.io/jokes/aVLhvWfbStuxhYslhEd7kw",
+      "value": "Chuck Norris was embarrassed the first time he was caught getting a blow job. Miss Douglas, his 5th grade teacher, was even more embarrassed."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:26.991637",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "Lzh01dRGTVK_Cba9NaAz2Q",
+      "updated_at": "2020-01-05 13:42:26.991637",
+      "url": "https://api.chucknorris.io/jokes/Lzh01dRGTVK_Cba9NaAz2Q",
+      "value": "Rome was not built in day because Chuck Norris was not there to do the job right."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:26.991637",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "dh8EoRhHSFyR2K9HabOcBg",
+      "updated_at": "2020-01-05 13:42:26.991637",
+      "url": "https://api.chucknorris.io/jokes/dh8EoRhHSFyR2K9HabOcBg",
+      "value": "Steve Jobs recently rickrolled Chuck Norris."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:27.496799",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "iyqJyygVSDWpUg754d0zXg",
+      "updated_at": "2020-01-05 13:42:27.496799",
+      "url": "https://api.chucknorris.io/jokes/iyqJyygVSDWpUg754d0zXg",
+      "value": "Bill Gates recently received a video tape of Chuck Norris holding up Steve Jobs' severed head and repeating 'you're next, egghead'."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:28.143137",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "i8vsOMokRRShfc0q_6_WnQ",
+      "updated_at": "2020-01-05 13:42:28.143137",
+      "url": "https://api.chucknorris.io/jokes/i8vsOMokRRShfc0q_6_WnQ",
+      "value": "Of course Chuck Norris doesn't use cleaning agents for his toilet, his piss does the job"
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:28.420821",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "obmaRjLiQqa49aXR5h5AHQ",
+      "updated_at": "2020-01-05 13:42:28.420821",
+      "url": "https://api.chucknorris.io/jokes/obmaRjLiQqa49aXR5h5AHQ",
+      "value": "As a teenager, Chuck Norris had a summer job. He was a lumberjack in the Sahara rainforest."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:28.420821",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "vhfit3aqTWSwXi3wdMXU1w",
+      "updated_at": "2020-01-05 13:42:28.420821",
+      "url": "https://api.chucknorris.io/jokes/vhfit3aqTWSwXi3wdMXU1w",
+      "value": "In the beginning, there was nothing. Then Chuck Norris roundhouse kicked the universe in the face and said \"get a job\"."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:29.296379",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "THzJk6ZsRi6W0rR-Cb2H2g",
+      "updated_at": "2020-01-05 13:42:29.296379",
+      "url": "https://api.chucknorris.io/jokes/THzJk6ZsRi6W0rR-Cb2H2g",
+      "value": "Chuck Norris requires all women with false teeth to remove them and replace them with Brillo Pads before giving him a blow job."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:29.296379",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "YNyOFN7rT92WpfJqPPoqHw",
+      "updated_at": "2020-01-05 13:42:29.296379",
+      "url": "https://api.chucknorris.io/jokes/YNyOFN7rT92WpfJqPPoqHw",
+      "value": "God stole Chuck Norris' job when he applied...God has been hiding ever since"
+    },
+    {
+      "categories": ["explicit"],
+      "created_at": "2020-01-05 13:42:29.855523",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "5rYgrG34SMG2PCFEl2zUbw",
+      "updated_at": "2020-01-05 13:42:29.855523",
+      "url": "https://api.chucknorris.io/jokes/5rYgrG34SMG2PCFEl2zUbw",
+      "value": "Chuck Norris once convinced a Playboy bunny to give him a blowjob while he was taking a shit"
+    },
+    {
+      "categories": ["explicit"],
+      "created_at": "2020-01-05 13:42:29.855523",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "1Skw0Q8iRo-lbEw81Yuoug",
+      "updated_at": "2020-01-05 13:42:29.855523",
+      "url": "https://api.chucknorris.io/jokes/1Skw0Q8iRo-lbEw81Yuoug",
+      "value": "The first pump shotgun was Actually the worlds largest shotgun because it is Chuck Norris's Penis, it destroyed Hiroshima and Nagasaki when he was getting a hand job from a hot girl."
+    },
+    {
+      "categories": ["explicit"],
+      "created_at": "2020-01-05 13:42:29.855523",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "LRK6BC3LRvuoHtORRdmRIA",
+      "updated_at": "2020-01-05 13:42:29.855523",
+      "url": "https://api.chucknorris.io/jokes/LRK6BC3LRvuoHtORRdmRIA",
+      "value": "Chuck Norris recently had his entire scrotum tattooed black, just to show everyone who the fuck Chuck is. He whiled away the 15-hour process by lifting weights and recieving blowjobs."
+    },
+    {
+      "categories": ["explicit"],
+      "created_at": "2020-01-05 13:42:29.855523",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "nVHI9qLjRXWfU3XA0Cy3gQ",
+      "updated_at": "2020-01-05 13:42:29.855523",
+      "url": "https://api.chucknorris.io/jokes/nVHI9qLjRXWfU3XA0Cy3gQ",
+      "value": "When Roald Amundsen reached the South Pole, he was greeted by the sight of Chuck Norris basking naked in the antarctic sun getting a blowjob from a whale."
+    },
+    {
+      "categories": ["explicit"],
+      "created_at": "2020-01-05 13:42:29.855523",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "Y4bxtio9TuK5XsmnpJRUQA",
+      "updated_at": "2020-01-05 13:42:29.855523",
+      "url": "https://api.chucknorris.io/jokes/Y4bxtio9TuK5XsmnpJRUQA",
+      "value": "Chuck Norris once received a blowjob from a slim lingerie model. That model is now known as Susan Boyle."
+    },
+    {
+      "categories": ["explicit"],
+      "created_at": "2020-01-05 13:42:29.855523",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "YAuQByL6Q8m5IG9_1VbsdA",
+      "updated_at": "2020-01-05 13:42:29.855523",
+      "url": "https://api.chucknorris.io/jokes/YAuQByL6Q8m5IG9_1VbsdA",
+      "value": "Chuck Norris once performed delicate brain surgery on a man on top of a speeding bus, while wearing boxing gloves and recieving a blowjob from two women."
+    },
+    {
+      "categories": ["explicit"],
+      "created_at": "2020-01-05 13:42:29.855523",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "hwZ2oOjvQ3m5AuOwmL0_3w",
+      "updated_at": "2020-01-05 13:42:29.855523",
+      "url": "https://api.chucknorris.io/jokes/hwZ2oOjvQ3m5AuOwmL0_3w",
+      "value": "There's an old saying in the movie business: If Chuck Norris goes more than 2 hours without a blowjob, you better remember one thing... (And then you wait for someone to ask what, and then you go: \"A good supply of body bags.\" )"
+    },
+    {
+      "categories": ["explicit"],
+      "created_at": "2020-01-05 13:42:29.855523",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "GWG6kx_TRgCCwQIq3mOgCQ",
+      "updated_at": "2020-01-05 13:42:29.855523",
+      "url": "https://api.chucknorris.io/jokes/GWG6kx_TRgCCwQIq3mOgCQ",
+      "value": "Chuck Norris can talk on the phone while he's getting a blowjob."
+    },
+    {
+      "categories": ["explicit"],
+      "created_at": "2020-01-05 13:42:29.855523",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "yIXq-JYzR8CkId88YFGQTA",
+      "updated_at": "2020-01-05 13:42:29.855523",
+      "url": "https://api.chucknorris.io/jokes/yIXq-JYzR8CkId88YFGQTA",
+      "value": "Chuck Norris will dissolve your face with an acidic fart if he considers your blowjob to be sub-par."
+    },
+    {
+      "categories": ["explicit"],
+      "created_at": "2020-01-05 13:42:29.855523",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "sOXhXmMET7yTc00WYeOK-Q",
+      "updated_at": "2020-01-05 13:42:29.855523",
+      "url": "https://api.chucknorris.io/jokes/sOXhXmMET7yTc00WYeOK-Q",
+      "value": "If you've met a woman with crooked teeth, you've met a woman who has given Chuck Norris a blowjob."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:30.480041",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "Ri8gek0pTAK9sRzMV4IGaw",
+      "updated_at": "2020-01-05 13:42:30.480041",
+      "url": "https://api.chucknorris.io/jokes/Ri8gek0pTAK9sRzMV4IGaw",
+      "value": "A woman wanted to commit suicide so she gave Chuck Norris a blow job."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:30.730109",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "fcx4BQAhTISvUMpwgjWW8g",
+      "updated_at": "2020-01-05 13:42:30.730109",
+      "url": "https://api.chucknorris.io/jokes/fcx4BQAhTISvUMpwgjWW8g",
+      "value": "Top 5 Most Powerful People of the World: 1) Chuck Norris 2) Oprah 3) Donald Trump 4) the President when he's in office 5) Either Bill Gates or Steve Jobs *Note-Chuck Norris is so powerful, this was a typo. He ranks 1-Infinity as the most powerful man to ever live."
+    }
+  ]
+}

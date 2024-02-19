@@ -1,0 +1,29 @@
+@import '../../../styles/variables';
+
+mat-card{
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+
+    mat-card-header{
+        display: flex;
+        flex-basis: 5%;
+        justify-content: flex-end;
+        padding:  .1rem ;
+        .btn-options{
+            mat-icon{
+                color: $color-dark;
+                font-size: 1.2rem;
+            }
+        }
+    }
+    mat-card-content{
+        padding: 0 1rem;
+        flex-basis: 85%;
+    }
+    mat-chip-set{
+        flex-basis: 10%;
+        padding: .5rem;
+    }
+}
+

@@ -1,0 +1,31 @@
+<h2 mat-dialog-title>{{ titleText }}</h2>
+<mat-dialog-content>
+  <form [formGroup]="form" (ngSubmit)="submit()">
+    <mat-form-field>
+      <mat-label>Quote</mat-label>
+      <textarea matInput formControlName="quote" rows="7"></textarea>
+      @if( quote!.hasError('required') || quote!.hasError('noWhitespace')){
+      <mat-error>You must enter a Joke</mat-error>
+      }
+    </mat-form-field>
+    <mat-form-field>
+      <mat-label>Categories</mat-label>
+      <mat-select formControlName="categories" multiple>
+        @for (category of categories; track category) {
+        <mat-option [value]="category">{{ category }}</mat-option>
+        }
+      </mat-select>
+    </mat-form-field>
+    <mat-dialog-actions>
+      <button mat-button type="button" [mat-dialog-close]="">Cancel</button>
+      <button
+        mat-raised-button
+        color="primary"
+        [disabled]="form.invalid"
+        type="submit"
+      >
+        {{ actionText }}
+      </button>
+    </mat-dialog-actions>
+  </form>
+</mat-dialog-content>

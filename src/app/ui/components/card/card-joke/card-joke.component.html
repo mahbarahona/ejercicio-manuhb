@@ -1,0 +1,26 @@
+<mat-card>
+  <mat-card-header>
+    <button
+      class="btn-options"
+      mat-icon-button
+      [matMenuTriggerFor]="menu"
+      #menuTrigger
+      aria-label="Open joke actions"
+    >
+      <mat-icon>more_vert</mat-icon>
+    </button>
+    <mat-menu #menu="matMenu">
+      <button mat-menu-item (click)="openEdit()">Edit</button>
+      <button mat-menu-item (click)="confirmDelete()">Remove</button>
+    </mat-menu>
+  </mat-card-header>
+  <!--  -->
+  <mat-card-content>
+    <p>{{ joke.quote }}</p>
+  </mat-card-content>
+  <mat-chip-set aria-label="categories">
+    @for (category of joke.categories; track $index) {
+    <mat-chip color="accent">{{ category }}</mat-chip>
+    }
+  </mat-chip-set>
+</mat-card>

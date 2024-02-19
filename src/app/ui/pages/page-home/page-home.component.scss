@@ -1,0 +1,78 @@
+@import '../../styles/variables';
+.app{
+    position: relative;
+    height: 100%;
+    transition: all .3s ease-in-out;
+
+    
+    &.LOADING{
+    }
+    &.READY{
+        background-color:$bg-color-ready;
+    }
+    &.ERROR{
+        background-color:$bg-color-error;
+    }
+}
+
+.btn-create-joke{
+    position: fixed;
+    z-index: 2;
+    bottom: 3rem;
+    right: 1rem;
+    height: 48px;
+
+    .btn-create-desktop{
+        display: none;
+    }
+}
+.list{
+    display: grid;
+    grid-template-columns: repeat(auto-fill,minmax(280px,1fr));
+    gap: 1rem;
+
+    height: 100%;
+    overflow-y: auto;
+    padding: 1rem;
+    
+
+}
+.empty-jokes{
+    background-color: $color-gray;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+}
+.error-message{
+    padding: 1rem;
+    display: flex;
+    flex-direction: column;
+    .error-joke{
+        display: 1rem;
+        max-width: 500px;
+    }
+}
+
+@media screen and ((min-width: $breakpoint-sm) and (max-width:$breakpoint-md)) {
+    .list{
+        grid-template-rows: repeat(auto-fill,minmax(250px,1fr));  
+    }
+}
+@media screen and (min-width: $breakpoint-md) {
+    .list{
+        grid-template-rows: repeat(auto-fill,minmax(200px,1fr));
+        padding: 1rem 5rem;
+    }
+     .btn-create-joke{
+        top: 1rem;
+        .btn-create-mobile{
+            display: none;
+        }
+        .btn-create-desktop{
+            display: block;
+        }
+    }
+}
+

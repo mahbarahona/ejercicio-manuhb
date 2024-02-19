@@ -1,0 +1,64 @@
+@if(debug){
+<div style="position: absolute; top: 0rem">
+  <button (click)="changeState('LOADING')">LOADING</button>
+  <button (click)="changeState('READY')">READY</button>
+  <button (click)="changeState('ERROR')">ERROR</button>
+  <button (click)="changeState('OFFLINE')">OFFLINE</button>
+</div>
+}
+<div class="app {{ localState }}">
+  <!--   -->
+  @switch (localState) {
+  <!--  -->
+  @case ('LOADING') {
+  <app-home-loading></app-home-loading>
+  }
+  <!--  -->
+  @case ('READY') {
+
+  <div class="btn-create-joke">
+    <button
+      mat-fab
+      color="accent"
+      class="btn-create-mobile"
+      aria-label="create joke"
+      (click)="openCreate()"
+    >
+      <mat-icon>add</mat-icon>
+    </button>
+    <button
+      mat-raised-button
+      class="btn-create-desktop"
+      color="accent"
+      aria-label="create joke"
+      (click)="openCreate()"
+    >
+      Create Joke
+    </button>
+  </div>
+  <div class="list">
+    @for(joke of jokes;track joke.id){
+    <app-card-joke
+      [joke]="joke"
+      [@fadeInFromBottom]
+      [@scaleDown]
+    ></app-card-joke>
+    }@empty {
+    <div class="empty-jokes">
+      <p>No jokes...</p>
+      <button mat-raised-button (click)="openCreate()">
+        Create a new joke
+      </button>
+    </div>
+    }
+  </div>
+  }
+  <!--  -->
+  @case ('ERROR') {
+  <!--  -->
+  <div class="error-message">
+    <h2>Sorry, we made a mistake</h2>
+    <p>Our team is actively working to resolve this issue.</p>
+  </div>
+  } }
+</div>

@@ -2,11 +2,8 @@
 
  Feel free to inspect!
 
- [Demo](https://ejercicio-manuhb.netlify.app)
+ [Demo link](https://ejercicio-manuhb.netlify.app)
 
  Demo QR
 
- (![demo-qr](demo-qr.png))
-
-
-
+ ![demo-qr](demo-qr.png)
